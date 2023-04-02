@@ -1,0 +1,12 @@
+img{
+	width:300px;
+	border: 5px red;
+	height: 400px;
+}
+* {
+	text-align: center;
+}
+body {
+  background-color: AntiqueWhite;
+  color: MidnightBlue;
+}
